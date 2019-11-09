@@ -1,13 +1,13 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Lim;Preston;;;
-FN: MD Derus  Adi 
+N:MD Derus; Adi;;Mr.;
+FN: Adi MD Derus 
 ORG:Motive Interactive Sdn. Bhd.;
-TITLE:Managing Director\n Data Science Division
+TITLE:Managing Director
 EMAIL;type=INTERNET;type=WORK;type=pref:adi@mtve.io
 TEL;type=WORK;type=VOICE:+60 19301 6288
-item1.ADR;type=WORK;type=pref:;;1 T3-10-05, Icon City\nJalan SS8/39\, 47300 Petaling Jaya.
+item1.ADR;type=WORK;type=pref:;;E-13-15, Pacific Place Commercial Centre\nJalan PJU 1A/4\nAra Damansara\n47300 Petaling Jaya.
 item1.X-ABADR:MY
 item2.URL;type=pref:mtve.io
 item2.X-ABLabel:_$!<HomePage>!$_
